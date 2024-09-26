@@ -14,8 +14,6 @@ A major component of this course is hands-on Python programming to implement dat
 
 **Instructor**: [Haojian Jin](http://haojianj.in/); Office: HDSI 341; Office Hours: Tu 4:00 pm-5:00 pm
 
-**Final**: 12/12/2024 Th, 03:00PM-6:00PM
-
 **Discussion**: The TAs will conduct one dicussion session before each PA on Zoom to help you get started with the assignment.
 
 ## Course Content and Format
@@ -144,7 +142,7 @@ The grading scheme is a hybrid of absolute and relative grading. The absolute cu
 ## Exam Dates
 
 - Midterm (TBD). During one of our classes.
-- Final Exam: 3:00-6:00 PM PT, TBD
+- Final Exam: 3:00-6:00 PM PT, 12/12/2024 Th
 
 ## Classroom Rules
 - <code>No late days</code> for submitting the PAs. No extensions on the final exam time window. Plan all your work well up front accordingly.
