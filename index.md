@@ -10,9 +10,11 @@ A major component of this course is hands-on Python programming to implement dat
 
 ## Administrivia
 
-**Lectures**: MWF 03:00PM-03:50PM; Mandeville Center - B-202
+**Lectures**: TuTh 02:00PM-03:20PM; FAH - 1450
 
-**Instructor**: [Haojian Jin](http://haojianj.in/); Office: HDSI 341; Office Hours: Wednesday 4:00 pm-5:00 pm
+**Instructor**: [Haojian Jin](http://haojianj.in/); Office: HDSI 341; Office Hours: Tu 4:00 pm-5:00 pm
+
+**Final**: 12/12/2024 Th, 03:00PM-6:00PM
 
 **Discussion**: The TAs will conduct one dicussion session before each PA on Zoom to help you get started with the assignment.
 
