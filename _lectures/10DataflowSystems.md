@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2024-05-31
+date: 2025-05-31
 title: Data flow systems
 tldr: "MapReduce, Hadoop, Spark"
 thumbnail: /static_files/presentations/placeholder.jpg

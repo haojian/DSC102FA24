@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2024-04-10
+date: 2025-04-10
 title: Memory hierarchy
 tldr: "Basics of Processors, Memory Abstraction, Memory Hierarchy, Locality"
 thumbnail: /static_files/presentations/placeholder.jpg

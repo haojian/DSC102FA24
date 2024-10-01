@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2024-04-12
+date: 2025-04-12
 title: Operating System Basics
 tldr: "Process management, Virtualization, Concurrency."
 thumbnail: /static_files/presentations/placeholder.jpg
