@@ -141,7 +141,7 @@ The grading scheme is a hybrid of absolute and relative grading. The absolute cu
 
 ## Exam Dates
 
-- Midterm (TBD). During one of our classes.
+- Midterm: 11/05/2024 Tuesday. During class.
 - Final Exam: 3:00-6:00 PM PT, 12/12/2024 Th
 
 ## Classroom Rules
