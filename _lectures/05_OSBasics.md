@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2025-04-12
+date: 2025-10-05
 title: Operating System Basics
 tldr: "Process management, Virtualization, Concurrency."
 thumbnail: /static_files/presentations/placeholder.jpg
@@ -10,7 +10,7 @@ links:
     # - url: /static_files/presentations/code.zip
     #   name: codes
     - url: /static_files/presentations/5OSBasics.pdf
-      name: Apr. 12 Slides
+      name: OS Basics Slides
 ---
 <!-- **Suggested Readings:**
 - [Readings 1](http://example.com)
