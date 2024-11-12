@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2025-04-24
+date: 2024-11-01
 title: Cloud Computing Basics
 tldr: "Cloud computing."
 thumbnail: /static_files/presentations/placeholder.jpg
@@ -10,7 +10,7 @@ links:
     # - url: /static_files/presentations/code.zip
     #   name: codes
     - url: /static_files/presentations/6CloudComputing.pdf
-      name: Apr. 24 Slides
+      name: Cloud Computing Slides
 ---
 <!-- **Suggested Readings:**
 - [Readings 1](http://example.com)
