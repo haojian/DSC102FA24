@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2025-05-09
+date: 2024-11-19
 title: Parallism Basics - Scalable Data accesss
 tldr: "Scalable Data accesss"
 thumbnail: /static_files/presentations/placeholder.jpg
@@ -10,7 +10,7 @@ links:
     # - url: /static_files/presentations/code.zip
     #   name: codes
     - url: /static_files/presentations/8ParallismDataAccess.pdf
-      name: May. 09 Slides
+      name: Scalable Data Access Slides
 ---
 <!-- **Suggested Readings:**
 - [Readings 1](http://example.com)
