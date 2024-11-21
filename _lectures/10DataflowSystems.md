@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2025-05-31
+date: 2024-11-26
 title: Data flow systems
 tldr: "MapReduce, Hadoop, Spark"
 thumbnail: /static_files/presentations/placeholder.jpg
@@ -10,7 +10,7 @@ links:
     # - url: /static_files/presentations/code.zip
     #   name: codes
     - url: /static_files/presentations/10DataflowSystems.pdf
-      name: May 31 Slides
+      name: Data flow systems Slides
 ---
 <!-- **Suggested Readings:**
 - [Readings 1](http://example.com)
